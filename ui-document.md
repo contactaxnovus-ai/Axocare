@@ -45,7 +45,7 @@ The UI should help support teams create, triage, update, monitor, and resolve se
 
 ### Dashboard
 
-![Ticket platform dashboard](assets/ticket-platform-dashboard.svg)
+![Ticket platform dashboard](ticket-platform-dashboard.svg)
 
 The dashboard is the primary landing screen for operations users. It combines high-signal metrics, queue visibility, SLA alerts, and direct navigation to ticket records.
 
@@ -63,7 +63,7 @@ Core dashboard capabilities:
 
 ### Ticket Detail
 
-![Ticket detail screen](assets/ticket-platform-ticket-detail.svg)
+![Ticket detail screen](ticket-platform-ticket-detail.svg)
 
 The ticket detail screen is the main workspace for a service request. It should support fast comprehension and controlled updates.
 
