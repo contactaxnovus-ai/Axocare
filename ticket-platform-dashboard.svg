@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-label="Ticket platform dashboard UI">
+  <rect width="1440" height="900" fill="#f6f7f9"/>
+  <rect x="0" y="0" width="260" height="900" fill="#111827"/>
+  <text x="32" y="48" fill="#f9fafb" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700">AxoCare SR</text>
+  <text x="32" y="94" fill="#9ca3af" font-family="Inter, Arial, sans-serif" font-size="13">Service Operations</text>
+  <rect x="24" y="130" width="212" height="42" rx="8" fill="#2563eb"/>
+  <text x="60" y="157" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600">Dashboard</text>
+  <text x="60" y="213" fill="#d1d5db" font-family="Inter, Arial, sans-serif" font-size="15">Tickets</text>
+  <text x="60" y="263" fill="#d1d5db" font-family="Inter, Arial, sans-serif" font-size="15">Queues</text>
+  <text x="60" y="313" fill="#d1d5db" font-family="Inter, Arial, sans-serif" font-size="15">Metadata</text>
+  <text x="60" y="363" fill="#d1d5db" font-family="Inter, Arial, sans-serif" font-size="15">Reports</text>
+  <rect x="292" y="30" width="1118" height="72" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="324" y="74" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">Ticket Operations Dashboard</text>
+  <rect x="1100" y="48" width="280" height="36" rx="8" fill="#f3f4f6" stroke="#d1d5db"/>
+  <text x="1122" y="71" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="14">Search SR, account, customer...</text>
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="292" y="132" width="250" height="130" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+    <text x="318" y="168" fill="#6b7280" font-size="14">Open Tickets</text>
+    <text x="318" y="218" fill="#111827" font-size="42" font-weight="700">128</text>
+    <text x="318" y="242" fill="#059669" font-size="13">+12 today</text>
+    <rect x="570" y="132" width="250" height="130" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+    <text x="596" y="168" fill="#6b7280" font-size="14">SLA At Risk</text>
+    <text x="596" y="218" fill="#111827" font-size="42" font-weight="700">17</text>
+    <text x="596" y="242" fill="#dc2626" font-size="13">5 critical</text>
+    <rect x="848" y="132" width="250" height="130" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+    <text x="874" y="168" fill="#6b7280" font-size="14">Resolved Today</text>
+    <text x="874" y="218" fill="#111827" font-size="42" font-weight="700">46</text>
+    <text x="874" y="242" fill="#2563eb" font-size="13">84% first contact</text>
+    <rect x="1126" y="132" width="284" height="130" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+    <text x="1152" y="168" fill="#6b7280" font-size="14">Average Response</text>
+    <text x="1152" y="218" fill="#111827" font-size="42" font-weight="700">18m</text>
+    <text x="1152" y="242" fill="#059669" font-size="13">within target</text>
+  </g>
+  <rect x="292" y="294" width="760" height="548" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="324" y="334" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Active Work Queue</text>
+  <line x1="292" y1="360" x2="1052" y2="360" stroke="#e5e7eb"/>
+  <g font-family="Inter, Arial, sans-serif" font-size="14">
+    <text x="324" y="394" fill="#6b7280">SR ID</text>
+    <text x="500" y="394" fill="#6b7280">Title</text>
+    <text x="760" y="394" fill="#6b7280">Priority</text>
+    <text x="880" y="394" fill="#6b7280">Status</text>
+    <line x1="324" y1="414" x2="1020" y2="414" stroke="#edf0f3"/>
+    <text x="324" y="448" fill="#111827" font-weight="700">SR-20260529-A1B2</text>
+    <text x="500" y="448" fill="#111827">Outbound email delivery failure</text>
+    <rect x="760" y="429" width="70" height="26" rx="13" fill="#fee2e2"/>
+    <text x="779" y="447" fill="#b91c1c" font-size="12" font-weight="700">HIGH</text>
+    <rect x="880" y="429" width="108" height="26" rx="13" fill="#dbeafe"/>
+    <text x="899" y="447" fill="#1d4ed8" font-size="12" font-weight="700">IN PROGRESS</text>
+    <line x1="324" y1="476" x2="1020" y2="476" stroke="#edf0f3"/>
+    <text x="324" y="510" fill="#111827" font-weight="700">SR-20260529-C8D4</text>
+    <text x="500" y="510" fill="#111827">Portal login timeout</text>
+    <rect x="760" y="491" width="88" height="26" rx="13" fill="#fef3c7"/>
+    <text x="779" y="509" fill="#92400e" font-size="12" font-weight="700">MEDIUM</text>
+    <rect x="880" y="491" width="82" height="26" rx="13" fill="#dcfce7"/>
+    <text x="899" y="509" fill="#166534" font-size="12" font-weight="700">OPEN</text>
+    <line x1="324" y1="538" x2="1020" y2="538" stroke="#edf0f3"/>
+    <text x="324" y="572" fill="#111827" font-weight="700">SR-20260529-E7F1</text>
+    <text x="500" y="572" fill="#111827">Billing attachment upload failed</text>
+    <rect x="760" y="553" width="70" height="26" rx="13" fill="#fee2e2"/>
+    <text x="779" y="571" fill="#b91c1c" font-size="12" font-weight="700">HIGH</text>
+    <rect x="880" y="553" width="92" height="26" rx="13" fill="#f3f4f6"/>
+    <text x="899" y="571" fill="#374151" font-size="12" font-weight="700">PENDING</text>
+  </g>
+  <rect x="1084" y="294" width="326" height="548" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="1116" y="334" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">SLA Timeline</text>
+  <line x1="1116" y1="374" x2="1116" y2="760" stroke="#d1d5db" stroke-width="2"/>
+  <circle cx="1116" cy="410" r="7" fill="#2563eb"/>
+  <text x="1140" y="416" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Created by System</text>
+  <text x="1140" y="438" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="13">Email channel</text>
+  <circle cx="1116" cy="504" r="7" fill="#f59e0b"/>
+  <text x="1140" y="510" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Assigned to Infra Queue</text>
+  <text x="1140" y="532" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="13">First response due in 18m</text>
+  <circle cx="1116" cy="598" r="7" fill="#dc2626"/>
+  <text x="1140" y="604" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">SLA risk detected</text>
+  <text x="1140" y="626" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="13">Escalation recommended</text>
+</svg>

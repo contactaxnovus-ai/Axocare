@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-label="Ticket detail UI">
+  <rect width="1440" height="900" fill="#f6f7f9"/>
+  <rect x="36" y="30" width="1368" height="80" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="72" y="80" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">SR-20260529-A1B2 - Outbound email delivery failure</text>
+  <rect x="1120" y="52" width="112" height="34" rx="17" fill="#dbeafe"/>
+  <text x="1144" y="74" fill="#1d4ed8" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">IN PROGRESS</text>
+  <rect x="1248" y="52" width="78" height="34" rx="17" fill="#fee2e2"/>
+  <text x="1270" y="74" fill="#b91c1c" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="700">HIGH</text>
+  <rect x="1340" y="52" width="36" height="34" rx="8" fill="#2563eb"/>
+  <text x="1351" y="75" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">+</text>
+  <rect x="36" y="136" width="868" height="708" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="72" y="180" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Ticket Summary</text>
+  <text x="72" y="222" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="14">Description</text>
+  <text x="72" y="250" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="16">Outbound email delivery is failing for customer account ACC-10001.</text>
+  <text x="72" y="276" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="16">The SR was created from automated monitoring and routed to infrastructure support.</text>
+  <line x1="72" y1="318" x2="868" y2="318" stroke="#e5e7eb"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="72" y="360" fill="#6b7280" font-size="14">Category</text>
+    <text x="72" y="386" fill="#111827" font-size="16" font-weight="700">INFRASTRUCTURE / EMAIL</text>
+    <text x="344" y="360" fill="#6b7280" font-size="14">Channel</text>
+    <text x="344" y="386" fill="#111827" font-size="16" font-weight="700">Email</text>
+    <text x="556" y="360" fill="#6b7280" font-size="14">Tenant</text>
+    <text x="556" y="386" fill="#111827" font-size="16" font-weight="700">AxoCare Default</text>
+    <text x="72" y="446" fill="#6b7280" font-size="14">Created</text>
+    <text x="72" y="472" fill="#111827" font-size="16" font-weight="700">2026-05-03 10:15 UTC</text>
+    <text x="344" y="446" fill="#6b7280" font-size="14">Last Update</text>
+    <text x="344" y="472" fill="#111827" font-size="16" font-weight="700">2026-05-03 12:40 UTC</text>
+    <text x="556" y="446" fill="#6b7280" font-size="14">SLA</text>
+    <text x="556" y="472" fill="#b91c1c" font-size="16" font-weight="700">4h response target</text>
+  </g>
+  <line x1="72" y1="516" x2="868" y2="516" stroke="#e5e7eb"/>
+  <text x="72" y="560" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Related Parties</text>
+  <rect x="72" y="586" width="356" height="78" rx="8" fill="#f9fafb" stroke="#e5e7eb"/>
+  <text x="96" y="618" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">System</text>
+  <text x="96" y="644" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="14">creator - Individual - user-001</text>
+  <rect x="456" y="586" width="356" height="78" rx="8" fill="#f9fafb" stroke="#e5e7eb"/>
+  <text x="480" y="618" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Support User</text>
+  <text x="480" y="644" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="14">updatedBy - Individual - user-002</text>
+  <text x="72" y="718" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Notes</text>
+  <rect x="72" y="744" width="740" height="64" rx="8" fill="#f9fafb" stroke="#e5e7eb"/>
+  <text x="96" y="782" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="15">SR created automatically due to email failure</text>
+  <rect x="936" y="136" width="468" height="330" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="970" y="180" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">SLA and Activity</text>
+  <line x1="970" y1="222" x2="970" y2="406" stroke="#d1d5db" stroke-width="2"/>
+  <circle cx="970" cy="246" r="7" fill="#2563eb"/>
+  <text x="994" y="252" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Created from email channel</text>
+  <text x="994" y="274" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="13">creator: user-001</text>
+  <circle cx="970" cy="322" r="7" fill="#f59e0b"/>
+  <text x="994" y="328" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">Updated by support</text>
+  <text x="994" y="350" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="13">updatedBy: user-002</text>
+  <circle cx="970" cy="398" r="7" fill="#dc2626"/>
+  <text x="994" y="404" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="700">SLA clock active</text>
+  <text x="994" y="426" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="13">Next action due soon</text>
+  <rect x="936" y="494" width="468" height="350" rx="10" fill="#ffffff" stroke="#e5e7eb"/>
+  <text x="970" y="538" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Related Entities</text>
+  <rect x="970" y="570" width="388" height="76" rx="8" fill="#f9fafb" stroke="#e5e7eb"/>
+  <text x="994" y="602" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="16" font-weight="700">Customer Account</text>
+  <text x="994" y="628" fill="#6b7280" font-family="Inter, Arial, sans-serif" font-size="14">ACC-10001 - CustomerAccount</text>
+  <text x="970" y="700" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Attachments</text>
+  <rect x="970" y="732" width="388" height="62" rx="8" fill="#f9fafb" stroke="#e5e7eb"/>
+  <text x="994" y="770" fill="#111827" font-family="Inter, Arial, sans-serif" font-size="15">error.png - image/png - 1.2 KB</text>
+</svg>
